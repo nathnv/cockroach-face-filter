@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Futuristic Tech Minimalism Color Palette -->
+    <color name="background">#0a0e27</color>
+    <color name="foreground">#f1f5f9</color>
+    <color name="primary">#00d9ff</color>
+    <color name="primary_foreground">#0a0e27</color>
+    <color name="secondary">#d946ef</color>
+    <color name="secondary_foreground">#fafafa</color>
+    <color name="accent">#ccff00</color>
+    <color name="accent_foreground">#0a0e27</color>
+    <color name="destructive">#ef4444</color>
+    <color name="destructive_foreground">#fafafa</color>
+    <color name="muted">#475569</color>
+    <color name="muted_foreground">#cbd5e1</color>
+    <color name="border">#334155</color>
+    <color name="card">#1a1f3a</color>
+</resources>

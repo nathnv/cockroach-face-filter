@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cockroach Face Filter</string>
+    <string name="camera_ready">Camera Ready</string>
+    <string name="face_detected">Face Detected</string>
+    <string name="no_face">No Face</string>
+    <string name="filter_on">✓ Filter ON</string>
+    <string name="filter_off">✗ Filter OFF</string>
+    <string name="record">Record</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="stats">Stats</string>
+    <string name="recording_started">Recording started</string>
+    <string name="recording_stopped">Recording saved to gallery</string>
+    <string name="screenshot_saved">Screenshot saved to gallery</string>
+    <string name="permissions_required">Permissions required to use the app</string>
+    <string name="camera_error">Camera error</string>
+</resources>
